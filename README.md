@@ -1,18 +1,18 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:203a43,100:0f766e&height=200&section=header&text=Wael%20Ben%20Hmida&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Builder%20of%20digital%20products&descFontSize=18" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Wael%20Ben%20Hmida&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20IT%20Specialist&descAlignY=58&descSize=18&animation=fadeIn" alt="Wael Ben Hmida banner" />
 </p>
 
 <p align="center">
   <a href="https://github.com/benhmidawael">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=680&lines=Full-Stack+Developer;Building+platforms+and+business+tools;Shipping+real+products;Open+for+freelance+and+full-time+work" alt="typing banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+marketplaces+%26+SaaS+platforms+%F0%9F%9B%92;Next.js+%7C+React+%7C+Node.js+%7C+MySQL;Secure%2C+scalable+%26+multilingual+apps+%F0%9F%8C%8D;Open+to+new+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="mailto:benhmidawael97@gmail.com"><img src="https://img.shields.io/badge/Email-benhmidawael97%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/benhmidawael/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://wa.me/21628051861"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="tel:+21628051861"><img src="https://img.shields.io/badge/Phone-%2B216%2028%20051%20861-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
   <img src="https://img.shields.io/badge/Location-Gab%C3%A8s%2C%20Tunisia-E70013?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
@@ -25,108 +25,198 @@
 
 ## 🙋‍♂️ About Me
 
-I’m a full-stack developer and IT specialist focused on building digital products that solve real business problems.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-My work spans frontend interfaces, backend APIs, database design, authentication, integrations, and secure product workflows.
+I'm a **full-stack developer and IT specialist** with **2+ years of professional experience**. I design, build and secure web platforms that solve real business problems, from multi-vendor marketplaces to rental-management SaaS and finance tools.
 
-- 🎓 B.Sc. in Computer Science — Computer Systems & Software
-- 🚀 Full-stack JavaScript / TypeScript developer
-- 💼 Experience in web apps, marketplaces, SaaS platforms, and business systems
-- 🔐 Interested in architecture, security, testing, and clean implementation
-- 🌍 Arabic (native), French (professional), English (professional)
+- 🎓 **B.Sc. in Computer Science**: Computer Systems & Software
+- 🚀 **Full-Stack JavaScript Bootcamp** graduate
+- 💼 **Senior IT Technician**: software development, IT support & hardware
+- 🌐 **Certified in FTTH network installation & maintenance**
+- 🔐 Focused on **architecture, security, database design & testing**
+- 🗣 **Arabic** (native) · **French** (professional) · **English** (professional)
 
-> Private and client projects are intentionally omitted here. Only public-facing work and general project themes are shown.
+</td>
+<td width="40%" valign="top">
 
----
+**⚡ Quick facts**
 
-## 💼 Professional Project Experience
+| | |
+|---|---|
+| 📍 | Gabès, Tunisia 🇹🇳 |
+| 🇹🇳 | Tunisian |
+| 💼 | Open to freelance & full-time |
+| 🕒 | GMT+1 |
+| 🎯 | Interests: coding challenges, photography 📷, fishing 🎣, swimming 🏊, gaming 🎮 |
 
-### 🛒 Marketplace & E-commerce
-- Multi-vendor marketplace platforms
-- Seller onboarding, commission logic, moderation workflows
-- Product lifecycle and approval systems
-- Subscription plans and dashboard management
-
-### 🚗 SaaS & Business Platforms
-- Fleet and rental management systems
-- Role-based access control and secure document handling
-- Multilingual interfaces and operational dashboards
-- Business process automation and customer workflows
-
-### 📊 Finance & Operations
-- Internal tools for accounting and financial services
-- Authentication, secure storage, and transactional workflows
-- Data-driven interfaces for business operations
-
-### 🔐 Fatoora / Digital Payments
-- Payment and invoicing workflow integration concepts
-- Secure transaction processing and business validation flows
-- API-based compliance and operational automation
-
-### 📱 Mobile & IoT
-- Android applications for delivery and logistics workflows
-- Embedded and connected-device projects
-- Real-time data monitoring and cloud integration
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧪 Public Project Highlights
+## 💼 Professional Projects
 
-These are examples of public work and learning projects I’ve built and shared:
+> 🔒 Most of these are private or client codebases, so only general descriptions are shown here.
 
-- `React_Project` — component-based UI and front-end engineering
-- `ToDoList` — practical task-management app logic
-- `MovieApp` / `MovieAppRouter` — state and routing patterns
-- `nodejs_checkpoint` / `express_checkpoint` — server-side workflows and API basics
-- `mongoDB` / `mongoose` — database modeling and data handling
-- `Html_Project`, `Css_Project`, `Dom_Project` — web fundamentals and UI implementation
-- `Algo_Project` and related algorithm repositories — data structures and coding exercises
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Cartago Store
+**Multi-vendor e-commerce marketplace**
+
+Independent sellers open their shop, list products and sell to customers.
+- Seller onboarding & commercial workflows
+- **Versioned product moderation**: the approved version stays live during review
+- Seller subscription plans & enforcement
+- Seller & moderator dashboards, CI pipelines
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![CI](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 RentaGo
+**Vehicle rental management SaaS**
+
+Helps rental companies run their fleet, bookings and documents in one place.
+- **Role-based access control** across staff roles
+- Secure document handling with signed uploads & downloads
+- Premium redesign of the public website
+- Fully multilingual UI: 🇫🇷 FR · 🇬🇧 EN · 🇹🇳 AR
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Monorepo](https://img.shields.io/badge/Monorepo-555?style=flat-square)
+![Security](https://img.shields.io/badge/Security-RBAC-red?style=flat-square)
+![i18n](https://img.shields.io/badge/i18n-FR%2FEN%2FAR-blueviolet?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Finance Web App
+**Platform for an accounting & financial services firm**
+
+A complete web application built end to end.
+- Frontend & backend development
+- Authentication & cloud data storage
+- Transactional email integration
+- Tested against business requirements
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SendGrid](https://img.shields.io/badge/SendGrid-1A82E2?style=flat-square&logo=twilio&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚚 Logistics Mobile App
+**Android app for transport & delivery**
+
+A native mobile app supporting delivery and transport operations.
+- Native Android development in Kotlin
+- Delivery & transport workflows
+- Covered by unit tests
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧾 Fatoora
+**Invoicing & digital payments platform**
+
+Helps businesses issue invoices and handle payments in a compliant way.
+- Invoicing & payment workflow integration
+- Secure transaction processing & business validation
+- API-based compliance & operational automation
+
+![Invoicing](https://img.shields.io/badge/Invoicing-0F766E?style=flat-square)
+![Payments](https://img.shields.io/badge/Payments-Secure-2EA44F?style=flat-square)
+![REST API](https://img.shields.io/badge/REST-API-555?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### ❤️ IoT Health-Monitoring Bracelet
+**Connected wearable + Android companion app**
+
+A smart bracelet that remotely tracks vital signs (temperature, heart rate) and streams them to a mobile app in real time.
+- Microcontroller firmware & sensor integration
+- Wi-Fi data transmission to the cloud
+- Real-time database, authentication & cloud storage
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![IoT](https://img.shields.io/badge/IoT-Sensors-orange?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,html,css,python&perline=12" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,html,css&perline=12" alt="Languages" /><br/>
   <img src="https://skillicons.dev/icons?i=nextjs,react,redux,nodejs,express,androidstudio&perline=12" alt="Frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,arduino,git,github,githubactions,vscode&perline=12" alt="Tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,arduino,git,github,githubactions,vscode&perline=12" alt="Databases and tools" />
 </p>
 
-<details>
-<summary><b>📋 Full skills list</b></summary>
+### 📋 Full skills list
 
 | Category | Skills |
 |---|---|
-| 💻 **Languages** | JavaScript (ES6+), TypeScript, Java, Kotlin, HTML5, CSS3 |
+| 💻 **Languages** | JavaScript (ES6+), TypeScript, Java / J2EE, Kotlin, HTML5, CSS3 |
 | ⚙️ **Frontend** | Next.js, React, Redux, responsive & accessible UI |
 | 🖥 **Backend** | Node.js, Express, REST APIs |
-| 🗄 **Databases** | MySQL, MongoDB, Oracle, Firebase |
+| 🗄 **Databases** | MySQL, MongoDB / Mongoose, Oracle, Firebase |
 | 📱 **Mobile & IoT** | Android (Kotlin / Java), Arduino |
-| 🧰 **Tools** | Git, GitHub, GitHub Actions, SendGrid, VS Code |
-| ✨ **Other** | System design, security, integrations, testing, IT support |
-
-</details>
+| 🧰 **Tools** | Git, GitHub, GitHub Actions, SendGrid, MS Office |
+| ✨ **Other** | Application security, integration testing, system design, IT support & hardware, FTTH networks |
+| 🤝 **Soft skills** | Problem-solving, teamwork, project management, time management, communication |
 
 ---
 
-## 📈 Profile Notes
-
-The GitHub stats cards shown on some profiles can be misleading when private repositories or client work are included.
-
-For a public profile, I prefer to keep the information honest and focused on visible work only.
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public%20profile-Visible-brightgreen?style=for-the-badge" alt="Public profile visible" />
-  <img src="https://img.shields.io/badge/Work%20status-Open%20to%20work-0A8F5A?style=for-the-badge" alt="Open to work badge" />
+  <img src="https://raw.githubusercontent.com/benhmidawael/benhmidawael/output/metrics.general.svg" alt="GitHub stats (public + private)" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/benhmidawael/benhmidawael/output/metrics.languages.svg" alt="Most used languages (public + private)" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=benhmidawael&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/benhmidawael/benhmidawael/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/benhmidawael/benhmidawael/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/benhmidawael/benhmidawael/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph" width="95%" />
+  </picture>
 </p>
 
 ---
 
-## 🤝 Let’s Work Together
+## 🤝 Let's Work Together!
 
-I’m open to freelance missions, full-time opportunities, and exciting side projects.
-
-Whether you need a marketplace, SaaS platform, mobile app, or business workflow system, I’d love to help build it.
+I'm open to **freelance missions, full-time roles and exciting side projects**. Whether you need a marketplace, a SaaS platform or a mobile app, let's talk!
 
 <p align="center">
   <a href="mailto:benhmidawael97@gmail.com"><img src="https://img.shields.io/badge/Send%20me%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -134,8 +224,8 @@ Whether you need a marketplace, SaaS platform, mobile app, or business workflow 
   <a href="https://wa.me/21628051861"><img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
-<p align="center"><i>"First, solve the problem. Then, write the code."</i></p>
+<p align="center"><i>"First, solve the problem. Then, write the code." (John Johnson)</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:203a43,100:0f766e&height=110&section=footer" alt="footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="footer" />
 </p>
