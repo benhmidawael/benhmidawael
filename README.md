@@ -191,7 +191,11 @@ A smart bracelet that remotely tracks vital signs (temperature, heart rate) and 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=benhmidawael&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="95%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/benhmidawael/benhmidawael/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/benhmidawael/benhmidawael/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/benhmidawael/benhmidawael/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph" width="95%" />
+  </picture>
 </p>
 
 ---
