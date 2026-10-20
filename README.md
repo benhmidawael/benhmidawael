@@ -1,11 +1,11 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f766e&height=200&section=header&text=Wael%20Ben%20Hmida&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver&descFontSize=18" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:203a43,100:0f766e&height=200&section=header&text=Wael%20Ben%20Hmida&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Builder%20of%20digital%20products&descFontSize=18" alt="header banner" />
 </p>
 
 <p align="center">
   <a href="https://github.com/benhmidawael">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=38bdf8&center=true&vCenter=true&width=680&lines=Full-Stack+Developer;Building+web+products+and+digital+solutions;Learning%2C+shipping%2C+improving;Open+to+freelance+and+full-time+roles" alt="typing banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=680&lines=Full-Stack+Developer;Building+platforms+and+business+tools;Shipping+real+products;Open+for+freelance+and+full-time+work" alt="typing banner" />
   </a>
 </p>
 
@@ -25,95 +25,108 @@
 
 ## 🙋‍♂️ About Me
 
-I’m a full-stack developer focused on building useful, secure, and scalable digital products. I enjoy turning business ideas into real platforms, from frontend interfaces and APIs to data models, authentication, and deployment workflows.
+I’m a full-stack developer and IT specialist focused on building digital products that solve real business problems.
+
+My work spans frontend interfaces, backend APIs, database design, authentication, integrations, and secure product workflows.
 
 - 🎓 B.Sc. in Computer Science — Computer Systems & Software
-- 💻 Strong in JavaScript, TypeScript, Node.js, React, Next.js, and modern web tooling
-- 🧩 Interested in product architecture, business workflows, and clean user experiences
-- 🔐 Comfortable with security, integrations, testing, and backend logic
-- 🌍 Fluent in Arabic, French, and English
+- 🚀 Full-stack JavaScript / TypeScript developer
+- 💼 Experience in web apps, marketplaces, SaaS platforms, and business systems
+- 🔐 Interested in architecture, security, testing, and clean implementation
+- 🌍 Arabic (native), French (professional), English (professional)
 
-> Public work only is shown here. Private and client projects are intentionally omitted to respect confidentiality.
+> Private and client projects are intentionally omitted here. Only public-facing work and general project themes are shown.
 
 ---
 
-## 💼 What I Build
+## 💼 Professional Project Experience
 
-I work on projects across several areas, including:
+### 🛒 Marketplace & E-commerce
+- Multi-vendor marketplace platforms
+- Seller onboarding, commission logic, moderation workflows
+- Product lifecycle and approval systems
+- Subscription plans and dashboard management
 
-- Marketplace and e-commerce platforms
-- SaaS dashboards and business workflows
-- Mobile and web applications
-- Automation, API integrations, and internal tools
-- Learning-focused coding projects and technical experiments
+### 🚗 SaaS & Business Platforms
+- Fleet and rental management systems
+- Role-based access control and secure document handling
+- Multilingual interfaces and operational dashboards
+- Business process automation and customer workflows
 
-### Selected project themes
+### 📊 Finance & Operations
+- Internal tools for accounting and financial services
+- Authentication, secure storage, and transactional workflows
+- Data-driven interfaces for business operations
 
-- Multi-vendor commerce and seller management workflows
-- Rental and service management platforms
-- Finance and business process applications
-- Android and mobile app development
-- IoT and connected device solutions
+### 🔐 Fatoora / Digital Payments
+- Payment and invoicing workflow integration concepts
+- Secure transaction processing and business validation flows
+- API-based compliance and operational automation
+
+### 📱 Mobile & IoT
+- Android applications for delivery and logistics workflows
+- Embedded and connected-device projects
+- Real-time data monitoring and cloud integration
 
 ---
 
 ## 🧪 Public Project Highlights
 
-These are public examples of my hands-on work and learning projects:
+These are examples of public work and learning projects I’ve built and shared:
 
-- `React_Project` — React components, state management, and UI patterns
-- `ToDoList` — practical front-end task management project
-- `MovieApp` / `MovieAppRouter` — app state and routing examples with real UI flows
-- `nodejs_checkpoint` / `express_checkpoint` — back-end and server-side project exercises
-- `mongoDB` / `mongoose` — database modeling and Mongoose-based data handling
-- `Html_Project`, `Css_Project`, `Dom_Project` — frontend fundamentals and UI implementation
-- `Algo_Project` and related algorithm repositories — data structures and algorithmic problem solving
+- `React_Project` — component-based UI and front-end engineering
+- `ToDoList` — practical task-management app logic
+- `MovieApp` / `MovieAppRouter` — state and routing patterns
+- `nodejs_checkpoint` / `express_checkpoint` — server-side workflows and API basics
+- `mongoDB` / `mongoose` — database modeling and data handling
+- `Html_Project`, `Css_Project`, `Dom_Project` — web fundamentals and UI implementation
+- `Algo_Project` and related algorithm repositories — data structures and coding exercises
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,html,css,python" alt="Languages" /><br/>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,nodejs,express,androidstudio" alt="Frameworks" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,arduino,git,github,githubactions,vscode" alt="Tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,kotlin,html,css,python&perline=12" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,nodejs,express,androidstudio&perline=12" alt="Frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,arduino,git,github,githubactions,vscode&perline=12" alt="Tools and platforms" />
 </p>
 
 <details>
-<summary><b>📋 Full skill set</b></summary>
+<summary><b>📋 Full skills list</b></summary>
 
 | Category | Skills |
 |---|---|
-| 💻 Languages | JavaScript (ES6+), TypeScript, Java, Kotlin, HTML5, CSS3 |
-| ⚙️ Frontend | Next.js, React, Redux, responsive UI, accessibility |
-| 🖥 Backend | Node.js, Express, REST APIs |
-| 🗄 Databases | MySQL, MongoDB, Firebase |
-| 📱 Mobile & IoT | Android (Kotlin / Java), Arduino, connected device workflows |
-| 🧰 Tools | Git, GitHub, GitHub Actions, SendGrid, VS Code |
-| 🧠 Strengths | Problem-solving, system design, testing, integration, IT support |
+| 💻 **Languages** | JavaScript (ES6+), TypeScript, Java, Kotlin, HTML5, CSS3 |
+| ⚙️ **Frontend** | Next.js, React, Redux, responsive & accessible UI |
+| 🖥 **Backend** | Node.js, Express, REST APIs |
+| 🗄 **Databases** | MySQL, MongoDB, Oracle, Firebase |
+| 📱 **Mobile & IoT** | Android (Kotlin / Java), Arduino |
+| 🧰 **Tools** | Git, GitHub, GitHub Actions, SendGrid, VS Code |
+| ✨ **Other** | System design, security, integrations, testing, IT support |
 
 </details>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Profile Notes
 
-Public stats are shown here to reflect visible contribution data accurately. Private repositories are intentionally excluded.
+The GitHub stats cards shown on some profiles can be misleading when private repositories or client work are included.
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=benhmidawael&show_icons=true&count_private=false&hide_border=true&hide_rank=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benhmidawael&layout=compact&hide_border=true&hide_rank=true&theme=tokyonight" alt="Top languages" />
-</p>
+For a public profile, I prefer to keep the information honest and focused on visible work only.
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=benhmidawael&theme=tokyonight&hide_border=true&hide_rank=true" alt="GitHub streak" />
+  <img src="https://img.shields.io/badge/Public%20profile-Visible-brightgreen?style=for-the-badge" alt="Public profile visible" />
+  <img src="https://img.shields.io/badge/Work%20status-Open%20to%20work-0A8F5A?style=for-the-badge" alt="Open to work badge" />
 </p>
 
 ---
 
-## 🤝 Let’s Collaborate
+## 🤝 Let’s Work Together
 
-I’m open to freelancing, full-time opportunities, and meaningful side projects. If you need a developer for a web product, app, dashboard, or platform idea, let’s talk.
+I’m open to freelance missions, full-time opportunities, and exciting side projects.
+
+Whether you need a marketplace, SaaS platform, mobile app, or business workflow system, I’d love to help build it.
 
 <p align="center">
   <a href="mailto:benhmidawael97@gmail.com"><img src="https://img.shields.io/badge/Send%20me%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -124,5 +137,5 @@ I’m open to freelancing, full-time opportunities, and meaningful side projects
 <p align="center"><i>"First, solve the problem. Then, write the code."</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f766e&height=110&section=footer" alt="footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:203a43,100:0f766e&height=110&section=footer" alt="footer banner" />
 </p>
