@@ -12,16 +12,27 @@
 <p align="center">
   <a href="mailto:benhmidawael97@gmail.com"><img src="https://img.shields.io/badge/Email-benhmidawael97%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/benhmidawael/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="tel:+21628051861"><img src="https://img.shields.io/badge/Phone-%2B216%2028%20051%20861-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
-  <img src="https://img.shields.io/badge/Location-Gab%C3%A8s%2C%20Tunisia-E70013?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <a href="https://wa.me/21628051861"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-Gab%C3%A8s%2C%20Tunisia-E70013?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=benhmidawael&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20work-brightgreen?style=flat" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Timezone-GMT%2B1-informational?style=flat" alt="Timezone GMT+1" />
+</p>
+
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#stack">Tech stack</a> •
+  <a href="#stats">Stats</a> •
+  <a href="#contact">Contact</a>
 </p>
 
 ---
+
+<a id="about"></a>
 
 ## 🙋‍♂️ About Me
 
@@ -29,11 +40,11 @@
 <tr>
 <td width="60%" valign="top">
 
-I'm a **full-stack developer and IT specialist** with **2+ years of professional experience**. I design, build and secure web platforms that solve real business problems, from multi-vendor marketplaces to rental-management SaaS and finance tools.
+I'm a **full-stack developer and IT specialist** with **3+ years of professional experience**. I design, build and secure web platforms that solve real business problems, from multi-vendor marketplaces to rental-management SaaS, invoicing and finance tools.
 
 - 🎓 **B.Sc. in Computer Science**: Computer Systems & Software
 - 🚀 **Full-Stack JavaScript Bootcamp** graduate
-- 💼 **Senior IT Technician**: software development, IT support & hardware
+- 💼 **Senior IT Technician @ Track Software Company** (since 2023): software development, IT support & hardware
 - 🌐 **Certified in FTTH network installation & maintenance**
 - 🔐 Focused on **architecture, security, database design & testing**
 - 🗣 **Arabic** (native) · **French** (professional) · **English** (professional)
@@ -43,19 +54,19 @@ I'm a **full-stack developer and IT specialist** with **2+ years of professional
 
 **⚡ Quick facts**
 
-| | |
-|---|---|
-| 📍 | Gabès, Tunisia 🇹🇳 |
-| 🇹🇳 | Tunisian |
-| 💼 | Open to freelance & full-time |
-| 🕒 | GMT+1 |
-| 🎯 | Interests: coding challenges, photography 📷, fishing 🎣, swimming 🏊, gaming 🎮 |
+- 📍 Gabès, Tunisia 🇹🇳
+- 💼 Open to freelance & full-time
+- 🕒 GMT+1 (Africa/Tunis)
+- 🏗 Building marketplaces & SaaS platforms
+- 🎯 Off-screen: coding challenges, photography 📷, fishing 🎣, swimming 🏊, gaming 🎮
 
 </td>
 </tr>
 </table>
 
 ---
+
+<a id="projects"></a>
 
 ## 💼 Professional Projects
 
@@ -167,6 +178,8 @@ A smart bracelet that remotely tracks vital signs (temperature, heart rate) and 
 
 ---
 
+<a id="stack"></a>
+
 ## 🛠 Tech Stack
 
 <p align="center">
@@ -190,19 +203,21 @@ A smart bracelet that remotely tracks vital signs (temperature, heart rate) and 
 
 ---
 
+<a id="stats"></a>
+
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/benhmidawael/benhmidawael/output/metrics.general.svg" alt="GitHub stats (public + private)" />
 </p>
 
+<!--
+  Languages card is hidden: it currently renders "13 Languages" with an empty list.
+  Re-enable once the metrics workflow's languages plugin is fixed.
 <p align="center">
   <img src="https://raw.githubusercontent.com/benhmidawael/benhmidawael/output/metrics.languages.svg" alt="Most used languages (public + private)" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=benhmidawael&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
-</p>
+-->
 
 <p align="center">
   <picture>
@@ -213,6 +228,8 @@ A smart bracelet that remotely tracks vital signs (temperature, heart rate) and 
 </p>
 
 ---
+
+<a id="contact"></a>
 
 ## 🤝 Let's Work Together!
 
