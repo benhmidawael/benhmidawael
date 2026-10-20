@@ -1,0 +1,39 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # Stats card: counts private repos & org repos you contribute to
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.general.svg
+          committer_branch: output
+          config_timezone: Africa/Tunis
+          base: header, activity, community, repositories
+          repositories_affiliations: owner, collaborator, organization_member
+          plugin_isocalendar: yes
+
+      # Languages card: computed from private + org repos too
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.languages.svg
+          committer_branch: output
+          base: ""
+          repositories_affiliations: owner, collaborator, organization_member
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 1%
